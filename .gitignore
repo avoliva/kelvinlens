@@ -1,0 +1,17 @@
+/target
+/node_modules
+/dist
+/testdata
+/src-tauri/gen/schemas
+.DS_Store
+*.log
+
+# Local notes and AI-assistant files: keep them out of the repo
+/cursor-files/
+.cursor/
+.claude/
+.codex/
+CLAUDE.md
+CLAUDE.local.md
+AGENTS.md
+.obsidian/
